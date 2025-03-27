@@ -19,31 +19,31 @@ LINK COMING SOON
 
 -   [x] Create a new repository on GitHub.
 -   [x] Initialise the project with index.html, style.css, script.js
--   [] Link the CSS and JS files in index.html
+-   [ ] Link the CSS and JS files in index.html
 
 ## Build the UI (HTML & CSS)
 
--   [] Add a <select> dropdown for mood selection
--   [] Add a <button> to trigger the color change
--   [] Add a <span> or <div> to display the generated color code
--   [] Style the page (center elements, add spacing, fonts, etc.)
+-   [ ] Add a <select> dropdown for mood selection
+-   [ ] Add a <button> to trigger the color change
+-   [ ] Add a <span> or <div> to display the generated color code
+-   [ ] Style the page (center elements, add spacing, fonts, etc.)
 
 ## Implement JavaScript Logic
 
--   [] Select DOM elements (querySelector)
--   [] Create an object with mood-based RGB ranges
--   [] Write a function to generate a random color within a range
--   [] Apply the generated color to the background (style.backgroundColor)
--   [] Display the color code (RGB or HEX format)
+-   [ ] Select DOM elements (querySelector)
+-   [ ] Create an object with mood-based RGB ranges
+-   [ ] Write a function to generate a random color within a range
+-   [ ] Apply the generated color to the background (style.backgroundColor)
+-   [ ] Display the color code (RGB or HEX format)
 
 # Extra Features
 
--   [] Animate color transitions (CSS transition)
--   [] Copy color code to clipboard (navigator.clipboard.writeText())
--   [] Allow user input to manually set a color
+-   [ ] Animate color transitions (CSS transition)
+-   [ ] Copy color code to clipboard (navigator.clipboard.writeText())
+-   [ ] Allow user input to manually set a color
 
 # Deploy & Share
 
--   [] Host the project on GitHub Pages, Netlify, or Vercel
--   [] Add a Live Demo link to the README
--   [] Share your project with others! 🚀
+-   [ ] Host the project on GitHub Pages, Netlify, or Vercel
+-   [ ] Add a Live Demo link to the README
+-   [ ] Share your project with others! 🚀
