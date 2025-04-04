@@ -19,13 +19,13 @@ LINK COMING SOON
 
 -   [x] Create a new repository on GitHub.
 -   [x] Initialize the project with `index.html`, `style.css`, `script.js`
--   [ ] Link the `CSS` and `JS` files in `index.html`
+-   [x] Link the `CSS` and `JS` files in `index.html`
 
 ## Build the UI (HTML & CSS)
 
--   [ ] Add a `<select>` dropdown for mood selection
--   [ ] Add a `<button>` to trigger the color change
--   [ ] Add a `<span>` or `<div>` to display the generated color code
+-   [x] Add a `<select>` dropdown for mood selection
+-   [x] Add a `<button>` to trigger the color change
+-   [x] Add a `<span>` or `<div>` to display the generated color code
 -   [ ] Style the page (center elements, add spacing, fonts, etc.)
 
 ## Implement JavaScript Logic
