@@ -18,6 +18,44 @@ ChangeColourBtn.addEventListener("click", function () {
 });
 
 // Step 3: Function to get a mood-based colour
+function getRandomInRange(min, max) {
+    return Math.floor(Math.random() * (max - min + 1)) + min;
+}
+
+function getColourForMood(mood) {
+    let r, g, b;
+
+    switch (mood) {
+        case "happy":
+            r = getRandomInRange(200, 255);
+            g = getRandomInRange(200, 255);
+            b = getRandomInRange(0, 100); // Bright yellows
+            break;
+
+        case "sad":
+            r = getRandomInRange(0, 100);
+            g = getRandomInRange(0, 100);
+            b = getRandomInRange(150, 255); // Deep blues
+            break;
+
+        case "calm":
+            r = getRandomInRange(100, 200);
+            g = getRandomInRange(200, 255);
+            b = getRandomInRange(100, 200); // Soft greens
+            break;
+
+        case "angry":
+            r = getRandomInRange(150, 255);
+            g = getRandomInRange(0, 100);
+            b = getRandomInRange(0, 100); // Strong reds
+            break;
+
+        default:
+            r = g = b = 150;
+    }
+
+    return `rgb(${r}, ${g}, ${b})`;
+}
 
 // Step 4: Convert RGB to HEX
 
