@@ -26,7 +26,7 @@ LINK COMING SOON
 -   [x] Add a `<select>` dropdown for mood selection
 -   [x] Add a `<button>` to trigger the color change
 -   [x] Add a `<span>` or `<div>` to display the generated color code
--   [ ] Style the page (center elements, add spacing, fonts, etc.)
+-   [x] Style the page (center elements, add spacing, fonts, etc.)
 
 ## Implement JavaScript Logic
 

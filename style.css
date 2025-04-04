@@ -1,0 +1,11 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    transition: background-color 0.5s ease-in-out;
+}
+
+#colourDisplay {
+    margin-top: 20px;
+    padding: 10px;
+    font-size: 1.2rem;
+}
