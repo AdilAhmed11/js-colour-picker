@@ -30,8 +30,8 @@ LINK COMING SOON
 
 ## Implement JavaScript Logic
 
--   [ ] Select DOM elements (`querySelector`)
--   [ ] Create an object with mood-based `RGB` ranges
+-   [x] Select DOM elements (`querySelector`)
+-   [x] Create an object with mood-based `RGB` ranges
 -   [ ] Write a function to generate a random color within a range
 -   [ ] Apply the generated color to the background (`style.backgroundColor`)
 -   [ ] Display the color code (`RGB` or `HEX` format)
